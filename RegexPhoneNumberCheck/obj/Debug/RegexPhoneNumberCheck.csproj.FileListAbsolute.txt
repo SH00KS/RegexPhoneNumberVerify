@@ -1,0 +1,6 @@
+C:\Dev\Training\RegexPhoneNumberCheck\RegexPhoneNumberCheck\bin\Debug\RegexPhoneNumberCheck.exe.config
+C:\Dev\Training\RegexPhoneNumberCheck\RegexPhoneNumberCheck\bin\Debug\RegexPhoneNumberCheck.exe
+C:\Dev\Training\RegexPhoneNumberCheck\RegexPhoneNumberCheck\bin\Debug\RegexPhoneNumberCheck.pdb
+C:\Dev\Training\RegexPhoneNumberCheck\RegexPhoneNumberCheck\obj\Debug\RegexPhoneNumberCheck.csprojResolveAssemblyReference.cache
+C:\Dev\Training\RegexPhoneNumberCheck\RegexPhoneNumberCheck\obj\Debug\RegexPhoneNumberCheck.exe
+C:\Dev\Training\RegexPhoneNumberCheck\RegexPhoneNumberCheck\obj\Debug\RegexPhoneNumberCheck.pdb
